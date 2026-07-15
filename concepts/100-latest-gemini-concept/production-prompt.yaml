@@ -1,0 +1,15 @@
+# production-prompt.yaml — Concept #100 (Latest)
+# This file is prepared for EXACT port of your original Gemini prompt.
+# Do not edit the original text — it will be placed here verbatim.
+
+# --- EXACT ORIGINAL GEMINI PROMPT / INSTRUCTIONS WILL GO BELOW ---
+
+concept:
+  number: 100
+  title: "[TO BE FILLED FROM GEMINI]"
+  slug: "100-latest-gemini-concept"
+
+# When you paste the Gemini details, I will insert the original prompt text here
+# (either as a large block or in a companion original-gemini-prompt.md file for perfect preservation).
+
+# The structured fields below will extend the shared base prompt without altering your original wording.
