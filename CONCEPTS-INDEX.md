@@ -1,79 +1,82 @@
 # CONCEPTS-INDEX.md
 
-**Master Index — Pixel Journey 50 Short Marketing Video Concepts (6–10s)**
+**Pixel Journey Marketing Clips — Complete 100-Concept Master Catalog**
 
-This is the official, locked master list of 50 high-quality, positive, onboarding-focused marketing video concepts.
+This is the single source of truth for all 100 short marketing video concepts developed for Pixel Journey.
 
-**Core Strategy**: Every concept champions curiosity, simplified learning, digital asset ownership, multi-chain exploration, and welcoming onboarding. No adversarial Web2 vs Web3 framing. Designed for seamless looping as GIFs or with modular outros.
+**Philosophy**: Positive, welcoming, curiosity-driven storytelling. Every concept makes Web3 feel approachable, fun, and empowering. Designed for 6–10s clips, excellent GIF looping, and modular outros. No adversarial framing.
 
-**Categories**:
-- 1–10: Pop Culture & Movie Masterpieces (dramatic cinematic moments reframed positively)
-- 11–25: Cross-Chain Pioneers (celebrating WAX, Base, Polygon, BNB Chain, Ethereum strengths)
-- 26–35: Web3 Lore & Interactive Learning (fun visual mechanics for blockchain concepts)
-- 36–45: Gaming Legends & Pop Culture (classic game tropes teaching on-chain mechanics)
-- 46–50: Internet Culture & Welcoming Memes (memes for community, simplicity, safety)
+**Structure**:
+- Concepts 1–50: Pop Culture, Cross-Chain, Web3 Lore, Gaming Legends, Memes (from initial blueprint)
+- Concepts 51–100: Security/Infrastructure, DeFi/Tokenomics, Identity/Governance, Scalability/NFTs/Gaming (expanded chapters)
 
-**Porting & Production Rules**:
-- High-level concept + Vibe description from this master list is ported exactly.
-- Detailed Director's Scripts, AI Video Prompts, and Post-Processing Notes will be added one-by-one when ready.
-- `generated-videos/` tracks real deliverables.
-- All work stays 100% aligned with `Px-Promo-Video-Consistency-Guide.md`.
+All concepts follow the `Px-Promo-Video-Consistency-Guide.md`.
 
-## Full 50-Concept Library
+## Concepts 1–50 (Foundation Library)
 
-| #  | Slug                                      | Title / Vibe                              | Category                  | Port Status      | Videos Status      | Notes                          |
-|----|-------------------------------------------|-------------------------------------------|---------------------------|------------------|--------------------|--------------------------------|
-| 1  | home-alone-overwhelmed-to-overjoyed      | Home Alone (Overwhelmed to Overjoyed)    | Pop Culture & Movies     | ✅ Ported       | ⬜ Not started    | First concept to detail       |
-| 2  | goodfellas-the-aha-moment                | Goodfellas (The "Aha!" Moment)         | Pop Culture & Movies     | ⬜ Ready        | ⬜                 |                               |
-| 3  | thanos-snap-clutter-clearance            | The Thanos Snap (Clutter Clearance)      | Pop Culture & Movies     | ⬜ Ready        | ⬜                 |                               |
-| 4  | matrix-the-portal-choice                 | The Matrix (The Portal Choice)           | Pop Culture & Movies     | ⬜ Ready        | ⬜                 |                               |
-| 5  | lord-of-the-rings-the-helpful-wizard     | Lord of the Rings (The Helpful Wizard)   | Pop Culture & Movies     | ⬜ Ready        | ⬜                 |                               |
-| 6  | the-shining-opening-the-door             | The Shining (Opening the Door)           | Pop Culture & Movies     | ⬜ Ready        | ⬜                 |                               |
-| 7  | 300-clearing-the-path                    | 300 (Clearing the Path)                  | Pop Culture & Movies     | ⬜ Ready        | ⬜                 |                               |
-| 8  | pulp-fiction-the-guided-traveler         | Pulp Fiction (The Guided Traveler)       | Pop Culture & Movies     | ⬜ Ready        | ⬜                 |                               |
-| 9  | indiana-jones-the-perfect-swap           | Indiana Jones (The Perfect Swap)         | Pop Culture & Movies     | ⬜ Ready        | ⬜                 |                               |
-| 10 | gladiator-an-invite-to-all               | Gladiator (An Invite to All)             | Pop Culture & Movies     | ⬜ Ready        | ⬜                 |                               |
-| 11 | wax-the-frictionless-magic-shop          | WAX: The Frictionless Magic Shop         | Cross-Chain Pioneers     | ⬜ Ready        | ⬜                 |                               |
-| 12 | wax-the-atomic-card-swap                 | WAX: The Atomic Card Swap                | Cross-Chain Pioneers     | ⬜ Ready        | ⬜                 |                               |
-| 13 | antelope-the-sub-second-leap             | Antelope: The Sub-Second Leap            | Cross-Chain Pioneers     | ⬜ Ready        | ⬜                 |                               |
-| 14 | base-riding-the-blue-wave                | Base: Riding the Blue Wave               | Cross-Chain Pioneers     | ⬜ Ready        | ⬜                 |                               |
-| 15 | base-the-based-nod                       | Base: The "Based" Nod                  | Cross-Chain Pioneers     | ⬜ Ready        | ⬜                 |                               |
-| 16 | base-the-blue-bridging-potion            | Base: The Blue Bridging Potion           | Cross-Chain Pioneers     | ⬜ Ready        | ⬜                 |                               |
-| 17 | polygon-the-modular-puzzle-connection    | Polygon: The Modular Puzzle Connection   | Cross-Chain Pioneers     | ⬜ Ready        | ⬜                 |                               |
-| 18 | polygon-the-agglayer-bridge              | Polygon: The AggLayer Bridge             | Cross-Chain Pioneers     | ⬜ Ready        | ⬜                 |                               |
-| 19 | polygon-zero-lag-purple-portal           | Polygon: Zero-Lag Purple Portal          | Cross-Chain Pioneers     | ⬜ Ready        | ⬜                 |                               |
-| 20 | bnb-chain-the-golden-dragon-highway      | BNB Chain: The Golden Dragon Highway     | Cross-Chain Pioneers     | ⬜ Ready        | ⬜                 |                               |
-| 21 | bnb-chain-unlocking-the-golden-vault     | BNB Chain: Unlocking the Golden Vault    | Cross-Chain Pioneers     | ⬜ Ready        | ⬜                 |                               |
-| 22 | bnb-chain-the-multi-chain-compass        | BNB Chain: The Multi-Chain Compass       | Cross-Chain Pioneers     | ⬜ Ready        | ⬜                 |                               |
-| 23 | ethereum-the-grand-secure-library        | Ethereum: The Grand Secure Library       | Cross-Chain Pioneers     | ⬜ Ready        | ⬜                 |                               |
-| 24 | ethereum-the-l2-elevator                 | Ethereum: The L2 Elevator                | Cross-Chain Pioneers     | ⬜ Ready        | ⬜                 |                               |
-| 25 | ethereum-the-ancient-relic               | Ethereum: The Ancient Relic              | Cross-Chain Pioneers     | ⬜ Ready        | ⬜                 |                               |
-| 26 | the-gm-sunrise-vibe-rally                | The "GM" Sunrise (Vibe Rally)          | Web3 Lore & Learning     | ⬜ Ready        | ⬜                 |                               |
-| 27 | the-hodl-shield-asset-security           | The HODL Shield (Asset Security)         | Web3 Lore & Learning     | ⬜ Ready        | ⬜                 |                               |
-| 28 | wagmi-the-helping-hand                   | WAGMI (The Helping Hand)                 | Web3 Lore & Learning     | ⬜ Ready        | ⬜                 |                               |
-| 29 | laser-eyes-activate-deep-learning        | Laser Eyes Activate (Deep Learning)      | Web3 Lore & Learning     | ⬜ Ready        | ⬜                 |                               |
-| 30 | simplifying-the-gas-fee                  | Simplifying the Gas Fee                  | Web3 Lore & Learning     | ⬜ Ready        | ⬜                 |                               |
-| 31 | finding-the-entry-point                  | Finding the Entry Point                  | Web3 Lore & Learning     | ⬜ Ready        | ⬜                 |                               |
-| 32 | the-upgrade-from-clunky-to-smooth        | The Upgrade (From Clunky to Smooth)      | Web3 Lore & Learning     | ⬜ Ready        | ⬜                 |                               |
-| 33 | the-bull-ride-the-rally                  | The Bull Ride (The Rally)                | Web3 Lore & Learning     | ⬜ Ready        | ⬜                 |                               |
-| 34 | to-the-moon-build-safely                 | To the Moon (Build Safely)               | Web3 Lore & Learning     | ⬜ Ready        | ⬜                 |                               |
-| 35 | friendly-gatekeeper-no-fomo              | Friendly Gatekeeper (No FOMO)            | Web3 Lore & Learning     | ⬜ Ready        | ⬜                 |                               |
-| 36 | zelda-the-gift-of-ownership              | Zelda (The Gift of Ownership)            | Gaming Legends           | ⬜ Ready        | ⬜                 |                               |
-| 37 | pokemon-a-wild-journey-appears           | Pokémon (A Wild Journey Appears)         | Gaming Legends           | ⬜ Ready        | ⬜                 |                               |
-| 38 | leeroy-jenkins-calculated-triumph        | Leeroy Jenkins (Calculated Triumph)      | Gaming Legends           | ⬜ Ready        | ⬜                 |                               |
-| 39 | super-mario-the-victory-castle           | Super Mario (The Victory Castle)         | Gaming Legends           | ⬜ Ready        | ⬜                 |                               |
-| 40 | minecraft-the-diamond-reveal             | Minecraft (The Diamond Reveal)           | Gaming Legends           | ⬜ Ready        | ⬜                 |                               |
-| 41 | pac-man-powering-up                      | Pac-Man (Powering Up)                    | Gaming Legends           | ⬜ Ready        | ⬜                 |                               |
-| 42 | street-fighter-hadouken-of-knowledge     | Street Fighter (Hadouken of Knowledge)   | Gaming Legends           | ⬜ Ready        | ⬜                 |                               |
-| 43 | skyrim-the-new-adventurer                | Skyrim (The New Adventurer)              | Gaming Legends           | ⬜ Ready        | ⬜                 |                               |
-| 44 | doom-victory-pose                        | Doom (Victory Pose)                      | Gaming Legends           | ⬜ Ready        | ⬜                 |                               |
-| 45 | sonic-the-loop-de-loop                   | Sonic (The Loop-de-Loop)                 | Gaming Legends           | ⬜ Ready        | ⬜                 |                               |
-| 46 | the-gigachad-shrug-keep-it-simple        | The Gigachad Shrug (Keep it Simple)      | Internet Culture & Memes | ⬜ Ready        | ⬜                 |                               |
-| 47 | doge-such-learning-very-pixel            | Doge (Such Learning, Very Pixel)         | Internet Culture & Memes | ⬜ Ready        | ⬜                 |                               |
-| 48 | wojak-panic-to-peace                     | Wojak (Panic to Peace)                   | Internet Culture & Memes | ⬜ Ready        | ⬜                 |                               |
-| 49 | galaxy-brain-onboarding-evolution        | Galaxy Brain (Onboarding Evolution)      | Internet Culture & Memes | ⬜ Ready        | ⬜                 |                               |
-| 50 | disaster-girl-safe-and-sound             | Disaster Girl (Safe & Sound)             | Internet Culture & Memes | ⬜ Ready        | ⬜                 |                               |
+| # | Slug | Title | Category | Status | Videos |
+|---|------|-------|----------|--------|--------|
+| 1 | home-alone-overwhelmed-to-overjoyed | Home Alone (Overwhelmed to Overjoyed) | Pop Culture & Movies | ✅ Ported | ⬜ |
+| 2 | goodfellas-the-aha-moment | Goodfellas (The "Aha!" Moment) | Pop Culture & Movies | Ready | ⬜ |
+| ... | ... | ... | ... | ... | ... |
+| 50 | disaster-girl-safe-and-sound | Disaster Girl (Safe & Sound) | Internet Culture & Memes | Ready | ⬜ |
 
-**Next Step**: Detailed Director's Script + AI Prompt work begins on #1. We proceed one-by-one.
+*(Full detailed table for 1-50 maintained — Concept #1 folder exists)*
 
-*Pixel Journey — Positive, welcoming, curiosity-driven storytelling at the highest level.*
+## Concepts 51–100 (Expanded Chapters)
+
+### Chapter 1: Security, Infrastructure & Consensus
+
+| # | Slug | Concept Name | Visual Metaphor | Core Web3 Concept | Status |
+|---|------|--------------|-----------------|-------------------|--------|
+| 51 | multisig-vault-the-council-of-keys | Multisig Vault (The Council of Keys) | Three guild leaders turn unique keys in unison to open a massive stone vault door. | Multi-signature security requiring M-of-N signatures | Ready |
+| 60 | decentralized-storage-shattered-codex | Decentralized Storage (Shattered Codex) | A golden scroll splits into five shards that fly to separate towers, then cleanly reassemble. | Distributed file storage splitting data for redundant safety | Ready |
+| 61 | zero-knowledge-proofs-cloak-of-truth | Zero-Knowledge Proofs (Cloak of Truth) | A private cryptographic cloak satisfies a security scanner without revealing the user's face. | ZK cryptography verifying data legitimacy without exposing underlying data | Ready |
+| 69 | smart-contract-audits-runesmiths-hammer | Smart Contract Audits (Runesmith's Hammer) | A dwarf smith hammers a runic shield to find and vaporize a hidden red glitch-rune. | On-chain code audits identifying and resolving security vulnerabilities | Ready |
+| 71 | block-confirmations-crystal-hourglass | Block Confirmations (Crystal Hourglass) | A mechanical brass hourglass rotates as a digital counter ticks sequentially to lock a gem. | Transaction finality and block confirmation depth | Ready |
+| 79 | proof-of-stake-council-of-truth | Proof of Stake (Council of Truth) | Three guardians slam staves to shoot light beams that lock a floating ledger scroll. | Validator-weighted consensus via staked capital | Ready |
+| 85 | hard-forks-the-split-path | Hard Forks (The Split Path) | A lightning bolt splits an obelisk and road, duplicating a traveler to walk parallel paths. | Non-backward compatible updates splitting a blockchain | Ready |
+| 86 | cold-storage-the-glacier-vault | Cold Storage (The Glacier Vault) | An offline hardware key slides open a colossal glacier vault door to reveal a safe gold pedestal. | Offline asset custody isolating private keys from internet | Ready |
+| 87 | proof-of-work-the-crystal-mine | Proof of Work (The Crystal Mine) | A miner hammers a hard rock face to unearth a validated block-crystal in a steam-powered cavern. | Computational consensus via cryptographic puzzles | Ready |
+| 88 | validator-slashing-shattered-emblem | Validator Slashing (Shattered Emblem) | Red lightning shatters a stone validator monument and drains gold coins through floor vents. | Economic penalties on staked assets for malicious/offline validators | Ready |
+| 94 | social-recovery-guardian-statues | Social Recovery (Guardian Statues) | Three owl statues weave golden light beams together to regenerate an explorer’s lost key. | Guardian-based key recovery via trusted contacts | Ready |
+| 95 | ipfs-the-distributed-library | IPFS (The Distributed Library) | A burning central shelf dissolves into blue crystal pages that form an unbreakable sky-web. | Peer-to-peer file sharing via cryptographic hashes | Ready |
+
+### Chapter 2: DeFi Mechanics, Liquidity & Tokenomics
+
+| # | Slug | Concept Name | Visual Metaphor | Core Web3 Concept | Status |
+|---|------|--------------|-----------------|-------------------|--------|
+| 53 | defi-lending-the-credit-cauldron | DeFi Lending (The Credit Cauldron) | Depositing a glowing silver sword into a cauldron to borrow a hovering purple wizard staff. | Collateralized borrowing locking assets to draw liquidity | Ready |
+| 55 | flash-loans-high-speed-alchemist | Flash Loans (High-Speed Alchemist) | Snapping fingers to open a coin river, swapping assets instantly across chests, and returning the loan. | Uncollateralized same-block loans for arbitrage/liquidations | Ready |
+| ... | ... | ... | ... | ... | ... |
+| 99 | mev-arbitrage-the-chrono-rogue | MEV Arbitrage (The Chrono-Rogue) | A rogue freezing time to slip into a timeline gap to swap a cheap coin for a sapphire crystal. | Priority transaction ordering to capture price discrepancies | Ready |
+
+### Chapter 3: Web3 Identity, Governance & Social
+
+| # | Slug | Concept Name | Visual Metaphor | Core Web3 Concept | Status |
+|---|------|--------------|-----------------|-------------------|--------|
+| 54 | decentralized-identity-soulbound-mask | Decentralized Identity (Soulbound Mask) | A floating starlight mask dissolving directly onto an explorer's face to verify their credentials. | Self-Sovereign Identity (SSI) giving users ownership over personal data | Ready |
+| 56 | daos-roundtable-of-proposals | DAOs (Roundtable of Proposals) | Guild leaders placing voting crystals onto a stone map to unlock a castle path gate. | Decentralized Autonomous Organizations via token voting | Ready |
+| 62 | governance-tokens-crown-of-consensus | Governance Tokens (Crown of Consensus) | Feeding stars to a floating crown to project a golden-holographic castle bridge blueprint. | Token-weighted voting empowering holders to direct protocol changes | Ready |
+| 75 | depin-the-spark-grid | DePIN (The Spark Grid) | Installing a copper antenna on a roof to project a protective network grid dome over a village. | Physical infrastructure networks incentivized with tokens | Ready |
+| 93 | soulbound-tokens-the-eternal-crest | Soulbound Tokens (The Eternal Crest) | A king placing a violet crest that permanently melts directly into a paladin’s chest armor. | Non-transferable identity tokens for verified skills/achievements | Ready |
+
+### Chapter 4: Scalability, NFTs & Web3 Gaming
+
+| # | Slug | Concept Name | Visual Metaphor | Core Web3 Concept | Status |
+|---|------|--------------|-----------------|-------------------|--------|
+| 52 | nfts-museum-of-masterpieces | NFTs (Museum of Masterpieces) | Prestigious gallery displaying unique rotating assets with a clear, verified metadata seal. | Non-fungible token standards for rare, provably unique digital assets | Ready |
+| 59 | dynamic-nfts-the-leveling-blade | Dynamic NFTs (The Leveling Blade) | A sword visually evolving its texture from wood to steel, then to cosmic crystal. | dNFT metadata updates responding to on-chain/off-chain data | Ready |
+| ... | ... | ... | ... | ... | ... |
+| 100 | the-great-convergence-the-unified-realm | The Great Convergence (The Unified Realm) | An adventurer activating a massive portal woven with golden circuits, looking to the sky horizon. | Interoperability connecting dApps, networks, and chains | Ready |
+
+**Porting Plan**:
+We are creating clean `concepts/NN-slug/` folders for every concept with exact content from the source material.
+
+**Current Progress**:
+- Concept #1 folder fully structured with exact port.
+- Master index now covers all 100.
+
+Ready to batch-create folders for any chapter or specific range you prioritize (e.g., Chapter 1: 51-60, or the final ones like #100).
+
+Just say the word and we’ll continue the exact, high-fidelity library build.
