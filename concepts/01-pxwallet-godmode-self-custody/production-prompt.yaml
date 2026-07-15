@@ -1,0 +1,52 @@
+# production-prompt.yaml — PxWallet God-Mode Self-Custody
+# Extends shared/prompts/base-production-prompt.yaml
+
+concept:
+  title: "PxWallet God-Mode Self-Custody Hero"
+  slug: "pxwallet-godmode-self-custody"
+  duration_target_seconds: 35
+
+style:
+  visual_language: "Extend base: Retro pixel Px Explorer character in classic game-over panic → satisfying glassmorphic vault open with pixel snap + CRT bloom. Elegant branching pixel tree for cross-chain derivation. High contrast neon cyan/amber accents on deep purple glass. Snappy 60fps motion."
+  tone: "Empowering retro-gamer friend who just discovered the ultimate power-up. 'Your keys. Your coins. Your god-mode.' Witty one-liners on seed phrase nightmares."
+
+brand_rules:
+  must_include:
+    - "Px Explorer empowered pose + vault opening"
+    - "Clear verifiable self-custody moment (local encryption glow or WharfKit signing delight)"
+    - "Cross-chain derivation tree as beautiful pixel visual"
+    - "Strong end card with Px branding and WAX line"
+
+scene_breakdown:
+  - time: "0-5s"
+    description: "Classic retro pixel platformer character (Px Explorer) panics as seed phrase scrolls and screen shatters in game-over style. Bold pixel text: 'NEVER AGAIN.'"
+  - time: "5-15s"
+    description: "Sleek glassmorphic PxWallet vault materializes with satisfying pixel-perfect snap + subtle CRT scanlines. Master password entry glows. 'One password. Infinite control.'"
+  - time: "15-30s"
+    description: "Elegant branching derivation tree blooms from single master seed → WAX, EVM, Solana nodes light up. 'One seed. Every chain. God mode unlocked.' Subtle on-chain verification sparkle."
+  - time: "30-35s"
+    description: "Quick cut to stylized Pixal gallery or Hot or Not integration inside wallet. 'Your assets. Verifiable. Yours.' CTA: 'Press Start to take back control.'"
+
+educational_delight_moment: "The derivation tree blooming + subtle local vault encryption visual. Viewers feel the 'I control everything, and it's beautiful and safe' realization."
+
+moodboard_references:
+  shared:
+    - "px-explorer-godmode-pose"
+    - "pxwallet-vault-open-stylized"
+    - "glassmorphic-panel-templates"
+    - "crt-scanline-bloom-subtle"
+    - "pixal-tier-examples"
+  concept_specific: "[Add any unique vault opening keys or derivation tree stills here]"
+
+technical_specs:
+  resolutions:
+    landscape: "1920x1080 @ 60fps"
+    portrait: "1080x1920 @ 60fps"
+    banners: ["1080x1080", "1200x628"]
+
+output_requirements:
+  - "Generate all specified formats"
+  - "Update concepts/01-pxwallet-godmode-self-custody/generated-videos/README.md status matrix after each pass"
+  - "Include burned-in captions in retro pixel style"
+
+# This prompt is ready for AI video generation tools (Runway, Kling, Luma, Pika, etc.) or human video editors. Reference the full Px-Promo-Video-Consistency-Guide.md for every decision.
