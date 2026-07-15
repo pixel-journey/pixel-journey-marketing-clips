@@ -1,0 +1,55 @@
+# base-production-prompt.yaml
+# Reusable structured base for all Pixel Journey marketing clip production prompts
+# Every concept-specific production-prompt.yaml MUST extend / reference this
+
+concept:
+  title: "[CONCEPT TITLE - e.g. PxWallet God-Mode Self-Custody Hero]"
+  slug: "[kebab-case-slug]"
+  duration_target_seconds: 30  # or 15-45 range
+  primary_format: "landscape + portrait + banners"
+
+style:
+  visual_language: "Strictly follow Px-Promo-Video-Consistency-Guide.md — retro-pixel premium glassmorphic with subtle CRT bloom, Press Start 2P headlines, snappy pixel-snapped motion, deep purple/cyan/amber palette. High contrast, educational delight."
+  tone: "Joyful knowledgeable retro-gamer friend. Witty, empowering, never bro-crypto or dry lecture. Subtly educational about self-custody / verifiable on-chain mechanics."
+  music_sound: "Retro chiptune or custom Px-themed synthwave with modern polish. Upbeat but not frantic. Optional subtle UI click/haptic sounds on key interactions."
+
+brand_rules:
+  must_include:
+    - "Subtle Px logo / wordmark treatment (glassmorphic) in corner or strong end card"
+    - "At least one clear 'verifiable on-chain' delight moment (TX hash, block header entropy, AtomicAssets data, surviving mint rank reveal)"
+    - "Pixal or Px visual language elements (even stylized)"
+    - "Native-feeling CTA (WharfKit connect, Hot or Not arena, claim rank flex)"
+    - "End card: repo/link + 'Built on WAX — Self-custody is the new high score'"
+  avoid:
+    - "Generic Web3 gradients or meme-coin saturation unless concept is ironically YEET-style"
+    - "Low-contrast text on pixel fonts"
+    - "Cheap stock transitions or overused particle packs"
+
+technical_specs:
+  resolutions:
+    landscape: "1920x1080 @ 60fps H.264 MP4 master + web optimized"
+    portrait: "1080x1920 @ 60fps for Reels/Stories"
+    banners:
+      - "1080x1080 square"
+      - "1200x628 Facebook/IG"
+      - "1080x1350 vertical story ad"
+  accessibility: "Burned-in large high-contrast pixel-friendly captions. Clear visual storytelling."
+  naming: "{slug}-{format}-v{version}.mp4 e.g. pxwallet-godmode-1080p-landscape-v1.mp4"
+
+moodboard_references:
+  shared: "Always start with shared/moodboard/ assets first (Pixals, PxWallet UI stylized, Hot or Not arena frames, glassmorphic overlays, retro CRT references, tier badges)"
+  concept_specific: "[List any additional per-concept stills needed]"
+
+output_requirements:
+  - "Full scene-by-scene breakdown with exact timings, camera moves, text overlays, voiceover beats"
+  - "Educational delight moment explicitly called out (the verifiable mechanic reveal)"
+  - "Status matrix in generated-videos/README.md updated after each render pass"
+  - "Multiple format exports as defined in technical_specs"
+
+ai_agent_instructions:
+  - "Extend this base with concept-specific scene details, exact script, and any unique visual gags or Px lore callbacks."
+  - "Reference specific files from shared/moodboard/ where possible."
+  - "Prioritize snappy retro game energy while keeping premium glassmorphic polish."
+  - "Make the on-chain verifiable part feel like discovering a hidden power-up, not a tutorial."
+
+# Usage: Copy this structure into each concept's production-prompt.yaml and fill in the concept-specific sections below the base.
